@@ -1,33 +1,6 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "extensions_IaaSAntimalware_Paths": {
-            "value": null
-        },
-        "extensions_IaaSAntimalware_Extensions": {
-            "value": null
-        },
-        "extensions_IaaSAntimalware_Processes": {
-            "value": null
-        },
-        "virtualMachines_MBCP_Client1_VM_name": {
-            "value": null
-        },
-        "networkInterfaces_mbcp_client1_vm327_name": {
-            "value": null
-        },
-        "publicIPAddresses_MBCP_Client1_VM_ip_name": {
-            "value": null
-        },
-        "vaults_MBCP_Cliente1_Vault1_name": {
-            "value": null
-        },
-        "networkSecurityGroups_MBCP_Client1_VM_nsg_name": {
-            "value": null
-        },
-        "virtualNetworks_MBCP_Common_VNET_externalid": {
-            "value": null
-        }
     }
 }
